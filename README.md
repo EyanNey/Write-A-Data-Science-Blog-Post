@@ -34,6 +34,6 @@ Therefore, this simple analysis is aiming to clear below interesting points pop-
 
 ### 5. Licensing, Authors, Acknowledgements
 1. Credit to 
-  - Udacity Data Scientist Nano Degree courses for some of code ideas
-  - Kaggle/AirBnb for making the data available for analysis and you can find the Licensing for the data and other descriptive information at the Kaggle link available [here](http://insideairbnb.com/get-the-data.html).
+   - Udacity Data Scientist Nano Degree courses for some of code ideas
+   - Kaggle/AirBnb for making the data available for analysis and you can find the Licensing for the data and other descriptive information at the Kaggle link available [here](http://insideairbnb.com/get-the-data.html).
 2. Otherwise, feel free to use the code here as you would like !
