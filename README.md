@@ -30,7 +30,7 @@ Therefore, this simple analysis is aiming to clear below interesting points pop-
 
 ### 4. Results
 1. Program coding refer to "WriteADataScienceBlogPost.ipynb"
-2. Blog post refer to "https://medium.com/p/48fe84fd087d/edit"
+2. Blog post refer to "https://medium.com/@eyanney.ang/you-spent-but-someone-earn-48fe84fd087d"
 
 ### 5. Licensing, Authors, Acknowledgements
 1. Credit to 
